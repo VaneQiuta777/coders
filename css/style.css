@@ -1,1 +1,59 @@
-
+div {
+    float: left;
+}
+h3{
+    margin-bottom: 10px;
+}
+hr{
+    width: 45px;
+    background-color: black;
+    height: 3px;
+    margin-left: 0;
+}
+section img {
+    width: 260px;
+    height: 190px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 50px;
+}
+images{
+    position: relative;
+    width: 100%;
+}
+#images1  {
+    position: absolute;
+    top: 250px;
+    left: 200px;
+    color: white;
+}
+#images2  {
+    position: absolute;
+    top: 520px;
+    left: 200px;
+    color: white;
+}
+#images3  {
+    position: absolute;
+    top: 250px;
+    left: 540px;
+    color: white;
+}
+#images4  {
+    position: absolute;
+    top: 520px;
+    left: 540px;
+    color: white;
+}
+#images5  {
+    position: absolute;
+    top: 250px;
+    left: 880px;
+    color: white;
+}
+#images6  {
+    position: absolute;
+    top: 520px;
+    left: 880px;
+    color: white;
+}
